@@ -14,7 +14,7 @@ Developer Hub ([www.developerhub.io](https://www.developerhub.io)) is a new prod
 
 # the product:
 
-XYZ
+Developer Hub is a new documentation product that clearly aims to get you writing and publishjng quickly and easily.
 
 XYZ - screenshot
 
@@ -23,6 +23,8 @@ XYZ - screenshot
 # proposals:
 
 1. Google analytics: XYZ
+
+1. Additional customizations: XYZ
 
 1. Snippets and variables: XYZ
 
