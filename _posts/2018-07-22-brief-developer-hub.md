@@ -42,4 +42,6 @@ XYZ - screenshot customized
 
 # monetize it:
 
-XYZ
+1. basic usage for free
+
+1. charge for: additional users, additional customizations, additional plugins, easy import/export
