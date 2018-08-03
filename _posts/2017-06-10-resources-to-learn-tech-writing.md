@@ -5,6 +5,7 @@ author: ryan
 categories: [ writing ]
 image: https://s3.amazonaws.com/ryanhaber/productbrief/content/images/bigstock-Treasures-1057627.jpg
 featured: yes
+url: https://productbrief.github.io/resources-to-learn-tech-writing.html
 ---
 
 I am frequently asked, "What are some good places to learn technical writing?" This page will be an evolving document listing off forums, organizations, and even books (gasp!) that have helped me improve my game. I may include some that look excellent even if they haven't been pivotal in my particular career.
