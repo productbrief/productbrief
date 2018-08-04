@@ -2,7 +2,7 @@
 layout: post
 title:  "Brief: Developer Hub - documentation made easy"
 author: ryan
-categories: [ brief, docs tools ]
+categories: [ brief, docs-tools ]
 image: XYZ.jpg
 featured: false
 hidden: false
