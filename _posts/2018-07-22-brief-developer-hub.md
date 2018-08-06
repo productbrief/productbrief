@@ -24,9 +24,13 @@ XYZ - screenshot default
 
 XYZ - screenshot customized
 
+# the competition:
+
+XYZ
+
 # proposals:
 
-1. Google analytics: XYZ
+1. Google analytics: Increasingly, and especially for technical products, user documentation is a key part of strategy to market to the technical user that informs a purchasing decision. Docs writers also benefit by understanding the behavior of their users. For both of these requirements, easy Google Analytics integration is vital.
 
 1. Additional customizations: XYZ
 
