@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-tl;dr: Developer Hub ([www.developerhub.io](https://www.developerhub.io)) is a new product that makes it easy to create documentation in minutes. It is clean, has core features, and is headed in the right direction.
+*tl;dr*: Developer Hub ([www.developerhub.io](https://www.developerhub.io)) is a new product that makes it easy to create documentation in minutes. It is clean, has core features, and is headed in the right direction.
 
 # the product:
 
