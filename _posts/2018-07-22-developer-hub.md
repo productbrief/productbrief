@@ -24,7 +24,21 @@ Google analytics: Increasingly, and especially for technical products, user docu
 
 # the competition:
 
-XYZ
+Developer Hub is a turnkey SaaS docs portal for small scale documentation projects. As indicated by the code block feature and, well, the name, this product clearly has an eye toward products that include code samples. It could be used easily for other small documentatio projects. Other such products and services include:
+
+* [ProProfs KnowledgeBase](https://www.proprofs.com/knowledgebase/)
+
+* [ClickHelp](https://clickhelp.com/)
+
+* [MindTouch](https://mindtouch.com/)
+
+and my favorite
+
+* [Paligo](https://paligo.net/)
+
+These products are all SaaS docs portals for small scale products.
+
+I distinguish Developer Hub and its competition from products such as [Adobe RoboHelp](https://www.adobe.com/products/robohelp.html), [Madcap Flare](https://www.madcapsoftware.com/products/flare/), and [OxygenXML Editor](https://www.oxygenxml.com/doc/versions/20.1/ug-editor/). The key distinctions are platform, scale, and end product. Developer Hub is SaaS. These products are enterprise installations. Developer Hub helps smaller documentation projects through their life cycle. These products cope with thousands of documents across multiple projects and are overkill and have too much overhead for smaller projects. Developer Hub provides a live website as output. Those products support multiple export and output paths.
 
 # proposals:
 
