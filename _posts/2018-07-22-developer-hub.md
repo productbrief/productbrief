@@ -42,15 +42,15 @@ I distinguish Developer Hub and its competition from products such as [Adobe Rob
 
 # proposals:
 
-1. Additional customizations: XYZ
+1. Additional customizations: Some clients will want a landing page that they can more fully or totally control. Generally speaking, it will also be useful to allow an HTML view of any particular content page as well, though probably within the existing template. Writers may want this view so they can code tables, set internal anchors, etc. The ability to inject css and javascript may also be helpful to many users.
 
-1. Snippets and variables: XYZ
+1. Snippets and variables: Writers, like coders, often want to reuse blocks of code. Very often, they want to be able to edit this blocks in one place and have the edits mirrored in the other instances. We usually call thse blocks 'snippets'. Variables allow users to insert values like current year that are updated at build or display time. Both snippets and variables are a common approach to keeping content fresh and consistent.
 
-1. Internal references: XYZ
+1. Internal references: It would be great to have hyperlinks within the documentation automatically updated in the event that a page's URL or name changes.
 
-1. Swagger integration: XYZ
+1. Swagger integration: The dream here is a fancy and configurable UI for OpenAPI/Swagger documentation built into the product. The API reference could be a stand-alone page or it could be inserted into existing docs. The ability to directly edit the HTML of a page would provide a short-term or less dreamy approach to this enhancement.
 
-1. DNS assignment: XYZ
+1. DNS assignment: The ability to assign my org's own domain name to pur docs would be a solid win.
 
 1. Permissions / community involvement: XYZ
 
