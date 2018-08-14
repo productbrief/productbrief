@@ -40,6 +40,8 @@ These products are all SaaS docs portals for small scale products.
 
 I distinguish Developer Hub and its competition from products such as [Adobe RoboHelp](https://www.adobe.com/products/robohelp.html), [Madcap Flare](https://www.madcapsoftware.com/products/flare/), and [OxygenXML Editor](https://www.oxygenxml.com/doc/versions/20.1/ug-editor/). The key distinctions are platform, scale, and end product. Developer Hub is SaaS. These products are enterprise installations. Developer Hub helps smaller documentation projects through their life cycle. These products cope with thousands of documents across multiple projects and are overkill and have too much overhead for smaller projects. Developer Hub provides a live website as output. Those products support multiple export and output paths.
 
+Paligo is in some ways the closest. Its UI is perhaps most similar to Developer Hub's. In reality, though, Paligo is an XML content authoring tool and probably more akin to OxygenXML for practical purposes. XYZ - validate
+
 # proposals:
 
 1. Additional customizations: Some clients will want a landing page that they can more fully or totally control. Generally speaking, it will also be useful to allow an HTML view of any particular content page as well, though probably within the existing template. Writers may want this view so they can code tables, set internal anchors, etc. The ability to inject css and javascript may also be helpful to many users.
@@ -52,7 +54,7 @@ I distinguish Developer Hub and its competition from products such as [Adobe Rob
 
 1. DNS assignment: The ability to assign my org's own domain name to pur docs would be a solid win.
 
-1. Permissions / community involvement: XYZ
+1. Permissions / community involvement: Permissions could work on a few levels. Authorized team members could log in and have permissions granted by the docs admin to write, edit others' writing, and/or publish. An admin or publisher could also have the ability to enable or disable comments and/or likes from readers signed in via SSO. Github, Google, and Facebook seem like likely integrations.
 
 # monetize it:
 
