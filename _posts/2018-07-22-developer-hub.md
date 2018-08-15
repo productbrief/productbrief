@@ -58,6 +58,6 @@ Paligo is in some ways the closest. Its UI is perhaps most similar to Developer 
 
 # monetize it:
 
-1. basic usage for free
+1. I suggest a basic tier of use for free with the product scaling along with customers' needs and ability to pay.
 
 1. charge for: additional users, additional customizations, additional plugins, easy import/export
