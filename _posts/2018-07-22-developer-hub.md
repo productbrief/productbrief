@@ -36,17 +36,17 @@ and my favorite
 
 * [Paligo](https://paligo.net/)
 
-These products are all SaaS docs portals for small scale products.
+These products are all SaaS docs portals.
 
 I distinguish Developer Hub and its competition from products such as [Adobe RoboHelp](https://www.adobe.com/products/robohelp.html), [Madcap Flare](https://www.madcapsoftware.com/products/flare/), and [OxygenXML Editor](https://www.oxygenxml.com/doc/versions/20.1/ug-editor/). The key distinctions are platform, scale, and end product. Developer Hub is SaaS. These products are enterprise installations. Developer Hub helps smaller documentation projects through their life cycle. These products cope with thousands of documents across multiple projects and are overkill and have too much overhead for smaller projects. Developer Hub provides a live website as output. Those products support multiple export and output paths.
 
-Paligo is in some ways the closest. Its UI is perhaps most similar to Developer Hub's. In reality, though, Paligo is an XML content authoring tool and probably more akin to OxygenXML for practical purposes. XYZ - validate
+Paligo is in some ways the closest. Its UI is perhaps most similar to Developer Hub's. In reality, though, Paligo is an XML content authoring tool and probably more akin to OxygenXML for practical purposes. Its key value offering is single-source multi-channel authoring.
+
+Developer Hub probably shouldn't get into multi-channel output at this point. It's for a developer audience mainly and for that purpose can stick to the web and really dig into easy web docs authoring. Its team can really get into that fight by adding some single-source magic. 
 
 # proposals:
 
-1. Additional customizations: Some clients will want a landing page that they can more fully or totally control. Generally speaking, it will also be useful to allow an HTML view of any particular content page as well, though probably within the existing template. Writers may want this view so they can code tables, set internal anchors, etc. The ability to inject css and javascript may also be helpful to many users.
-
-1. Snippets and variables: Writers, like coders, often want to reuse blocks of code. Very often, they want to be able to edit this blocks in one place and have the edits mirrored in the other instances. We usually call thse blocks 'snippets'. Variables allow users to insert values like current year that are updated at build or display time. Both snippets and variables are a common approach to keeping content fresh and consistent.
+1. Snippets and variables for easy single-source writing: Writers, like coders, often want to reuse blocks of code. Very often, they want to be able to edit this blocks in one place and have the edits mirrored in the other instances. We usually call thse blocks 'snippets'. Variables allow users to insert values like current year that are updated at build or display time. Both snippets and variables are a common approach to keeping content fresh and consistent. In the case of either snippets or variables, the team will need to pay careful attention to how styling is applied: whether from the source, the referring location, or some cascading approach. 
 
 1. Internal references: It would be great to have hyperlinks within the documentation automatically updated in the event that a page's URL or name changes.
 
@@ -56,8 +56,16 @@ Paligo is in some ways the closest. Its UI is perhaps most similar to Developer 
 
 1. Permissions / community involvement: Permissions could work on a few levels. Authorized team members could log in and have permissions granted by the docs admin to write, edit others' writing, and/or publish. An admin or publisher could also have the ability to enable or disable comments and/or likes from readers signed in via SSO. Github, Google, and Facebook seem like likely integrations.
 
+1. Additional customizations: Some clients will want a landing page that they can more fully or totally control. Generally speaking, it will also be useful to allow an HTML view of any particular content page as well, though probably within the existing template. Writers may want this view so they can code tables, set internal anchors, etc. The ability to inject css and javascript may also be helpful to many users.
+
 # monetize it:
 
 1. I suggest a basic tier of use for free with the product scaling along with customers' needs and ability to pay.
 
-1. charge for: additional users, additional customizations, additional plugins, easy import/export
+1. I suggest the Developwe Hib team charge for: additional users, additional customizations, additional plugins, bulk import/export or maybe import/export at a data level.
+
+1. Another service to consider supplying and charging for: an embeddable HTML element with supporting CSS/JS that does a quick, autocomplete/suggested-completion query of the documentation. Content developers can embed such an element in, among other places, customer support request pages.
+
+# Scale it:
+
+1. Technical writing trade shows, associations, and forums seem a pretty obvious forum for getting the word out.
