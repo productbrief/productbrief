@@ -34,10 +34,6 @@ Developer Hub is a turnkey SaaS docs portal for small scale documentation projec
 
 * [ClickHelp](https://clickhelp.com/)
 
-* [MindTouch](https://mindtouch.com/)
-
-and my favorite
-
 * [Paligo](https://paligo.net/)
 
 These products are all SaaS docs portals.
