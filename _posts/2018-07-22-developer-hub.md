@@ -20,7 +20,11 @@ Developer Hub has a simple and intuitive WYSIWYG editor, which means anybody can
 
 You get basic white-labeling options: you can customize the color scheme, logo, and favicon. Obviously this customization will not be enough for some enterprises. For most of us looking to just get up and running, it's plenty.
 
-Google analytics: Increasingly, and especially for technical products, user documentation is a key part of strategy to market to the technical user that informs a purchasing decision. Docs writers also benefit by understanding the behavior of their users. For both of these requirements, easy Google Analytics integration is vital.
+The output is clean and simple.
+
+![clean and simple output](https://s3.amazonaws.com/ryanhaber/productbrief/content/images/developerhub-output-page.png)
+
+You can play with the little mini docs demo I made: [API Ambassador Demo Docs](https://api-ambassador.developerhub.io/v1.1/api-ambassador/getting-started).
 
 # the competition:
 
@@ -46,6 +50,8 @@ Developer Hub probably shouldn't get into multi-channel output at this point. It
 
 # proposals:
 
+1. Make formatting controls a bit more obvious: It's probably me. The formatting controls weren't obvious to me, but they are there. Once you figure them out or guess, they do make sense, so I'm not sure something better is really possible. Just something for the team to consider.
+
 1. Snippets and variables for easy single-source writing: Writers, like coders, often want to reuse blocks of code. Very often, they want to be able to edit this blocks in one place and have the edits mirrored in the other instances. We usually call thse blocks 'snippets'. Variables allow users to insert values like current year that are updated at build or display time. Both snippets and variables are a common approach to keeping content fresh and consistent. In the case of either snippets or variables, the team will need to pay careful attention to how styling is applied: whether from the source, the referring location, or some cascading approach. 
 
 1. Internal references: It would be great to have hyperlinks within the documentation automatically updated in the event that a page's URL or name changes.
@@ -66,6 +72,6 @@ Developer Hub probably shouldn't get into multi-channel output at this point. It
 
 1. Another service to consider supplying and charging for: an embeddable HTML element with supporting CSS/JS that does a quick, autocomplete/suggested-completion query of the documentation. Content developers can embed such an element in, among other places, customer support request pages.
 
-# Scale it:
+# scale it:
 
 1. Technical writing trade shows, associations, and forums seem a pretty obvious forum for getting the word out.
