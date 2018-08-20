@@ -4,7 +4,7 @@ title:  "Developer Hub - documentation made easy"
 author: ryan
 categories: [ brief, docs-tools ]
 image: https://s3.amazonaws.com/ryanhaber/productbrief/content/images/developerhub-output.png
-featured: false
+featured: true
 hidden: false
 ---
 

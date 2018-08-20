@@ -4,7 +4,7 @@ title:  "I Never Meant to Be a Technical Writer"
 author: ryan
 categories: [ career ]
 image: https://s3.amazonaws.com/ryanhaber/productbrief/content/images/bigstock-Homemade-Sugary-Paczki-Donut-116836508.jpg
-featured: true
+featured: false
 hidden: true
 ---
 
