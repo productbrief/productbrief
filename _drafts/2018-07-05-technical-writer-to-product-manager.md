@@ -16,7 +16,7 @@ Since 2015, I've felt increasingly confident in my tech writing game. It's been 
 
 Slowly, I've gotten into Jim's idea that technical writers can morph into product managers. It makes sense, really. Product managers must first and foremost empathize with users. So must technical writers. Product managers must communicate clearly with multiple parties: users, developers, and leadership. So must technical writers. Product managers must understand a product not only from the inside, but also from the outside. So must technical writers.
 
-I admit that some tech writers focus more on the innards of a software product and some more on the user-facing dimension. I started technical writing about the user experience though, how to use an application. From there, I've moved onto documenting the innards: how it's built and how external developers can interface with it. So I figure I've got both bases covered. 
+I admit that some tech writers focus more on the innards of a software product and some more on the user-facing dimension. I started technical writing about the user experience though, how to use an application. From there, I've moved onto documenting the innards: how it's built and how external developers can interface with it. So I figure I've got both bases covered.
 
 We'll see if it works. 
 
