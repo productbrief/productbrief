@@ -8,7 +8,7 @@ featured: false
 hidden: true
 ---
 
-<img src="https://s3.amazonaws.com/ryanhaber/github-images/profile-pix-3.png" style="width: 250px; float: left; margin-right: 30px; margin-bottom: 10px" />
+<img src="https://s3.amazonaws.com/ryanhaber/github-images/profile-pix-3.png" style="width: 250px; float: right; margin-left: 30px; margin-bottom: 10px" />
 
 My background is technical writing. I help companies document, support, market, sell, and improve their APIs and SDKs. My docs and code samples help software developers quickly understand and use of APIs. I help market and sell producrs. I work for Blackboard, Inc.
 
