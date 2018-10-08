@@ -12,7 +12,7 @@ When I was an undergraduate, a history major, I read a substantial amount. That'
 
 Then my life started to come into regular contact with the internet. Starting in 2007-10, I can see that my life was getting more and more "connected" to the Internet but less and less connected to the habit of sustained, deep reflection and thought. My social life hasn't suffered. I spend as much time with people as ever and, thanks in part to the Internet, a wider range of acquaintances and friends than ever before both in person and remotely. But my time in contemplation and study has, since at least 2010, lets say, collapsed.
 
-That has to change now.
+That has to change. _**Now**_.
 
 My spiritual directors have always encouraged me to dig back into prayer and meditation. Now I'm also reading Cal Newton's book [Deep Work: Rules for Focused Success in a Distracted World](https://smile.amazon.com/gp/product/1455586692/). I'm increasingly convinced, convicted even, that I need to make a discipline of spending time in uninterrupted, disconnected study and contemplation of matters but spiritual and worldly. Here I will not go into the spiritual, but I do want to put out to the world this commitment. I hope that by doing so, my towering pride will force me to follow through lest I get teased and chided. Here's the commitment, to go into effect the day I return home from my present business trip:
 

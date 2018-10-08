@@ -4,7 +4,7 @@ title:  "Resources to Learn Tech Writing"
 author: ryan
 categories: [ writing ]
 image: https://s3.amazonaws.com/ryanhaber/productbrief/content/images/bigstock-Treasures-1057627.jpg
-featured: yes
+featured: false
 url: https://productbrief.github.io/resources-to-learn-tech-writing.html
 ---
 
