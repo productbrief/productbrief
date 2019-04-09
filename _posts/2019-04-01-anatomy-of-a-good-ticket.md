@@ -8,15 +8,6 @@ featured: true
 hidden: false
 ---
 
-<style>
-    table, th, td {
-    border-collapse: collapse;
-    border: 3px solid #bbdefe;
-    padding: 5px;
-    margin: 5px;
-}
-</style>
-
 *tl;dr*: A good ticket is clear, correct, complete, and concise. It uses straightforward grammar, includes background information to aid good decision-making, and sets clear expectations. A good ticket is neither too big nor too small.
 
 # The Problem
@@ -55,6 +46,15 @@ Run your writing through a readability scanner to see where you can make improve
 **A good ticket is not too big or not too small** It suits the time-frame and team members involved in its execution. Think of an atom or a small molecule, not a rocket ship.
 
 # A Bad Ticket
+
+<style>
+    table, th, td {
+    border-collapse: collapse;
+    border: 3px solid #bbdefe;
+    padding: 5px;
+    margin: 5px;
+}
+</style>
 
 Imagine a ticket's contents broken up into this form.
 
