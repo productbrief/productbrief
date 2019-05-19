@@ -4,7 +4,7 @@ title:  "A Personal Thought Experiment"
 author: ryan
 categories: [ career, philosophy ]
 image: https://s3.amazonaws.com/ryanhaber/productbrief/content/images/radu-florin-756283-unsplash.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

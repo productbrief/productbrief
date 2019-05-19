@@ -43,7 +43,7 @@ Run your writing through a readability scanner to see where you can make improve
 * [Readable](https://www.readable.io)
 * [Hemingway App](https://www.hemingwayapp.com)
 
-**A good ticket is not too big or not too small** It suits the time-frame and team members involved in its execution. Think of an atom or a small molecule, not a rocket ship.
+**A good ticket is not too big nor too small.** It suits the time-frame and team members involved in its execution. Think of an atom or a small molecule, not a rocket ship.
 
 # A Bad Ticket
 
