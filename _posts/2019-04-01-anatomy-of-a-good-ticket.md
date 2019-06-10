@@ -4,7 +4,7 @@ title:  "Anatomy of a Good Ticket"
 author: ryan
 categories: [ user-story, requirements, writing ]
 image: https://s3.amazonaws.com/ryanhaber/productbrief/content/images/take-a-number.jpeg
-featured: true
+featured: false
 hidden: false
 ---
 
